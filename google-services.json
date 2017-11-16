@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647121287687",
+    "firebase_url": "https://fb-lite-8269d.firebaseio.com",
+    "project_id": "fb-lite-8269d",
+    "storage_bucket": "fb-lite-8269d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647121287687:android:66731832a5bbb282",
+        "android_client_info": {
+          "package_name": "com.px.Fblite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647121287687-cma43llu38nnpkv1fskifme6u4hkl3ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCU95CKh6n8Hlpd4GBQ-tVSvdzZPoPf0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
